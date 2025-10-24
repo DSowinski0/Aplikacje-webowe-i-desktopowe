@@ -1,0 +1,14 @@
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\bin\Debug\net8.0\nazwa.exe
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\bin\Debug\net8.0\nazwa.deps.json
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\bin\Debug\net8.0\nazwa.runtimeconfig.json
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\bin\Debug\net8.0\nazwa.dll
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\bin\Debug\net8.0\nazwa.pdb
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\obj\Debug\net8.0\nazwa.GeneratedMSBuildEditorConfig.editorconfig
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\obj\Debug\net8.0\nazwa.AssemblyInfoInputs.cache
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\obj\Debug\net8.0\nazwa.AssemblyInfo.cs
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\obj\Debug\net8.0\nazwa.csproj.CoreCompileInputs.cache
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\obj\Debug\net8.0\nazwa.dll
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\obj\Debug\net8.0\refint\nazwa.dll
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\obj\Debug\net8.0\nazwa.pdb
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\obj\Debug\net8.0\nazwa.genruntimeconfig.cache
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\11 09 2025\nazwa\nazwa\obj\Debug\net8.0\ref\nazwa.dll

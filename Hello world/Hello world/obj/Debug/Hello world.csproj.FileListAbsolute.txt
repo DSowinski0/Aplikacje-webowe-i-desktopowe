@@ -1,0 +1,16 @@
+C:\Users\dsowinski\source\repos\Hello world\Hello world\bin\Debug\Hello world.exe.config
+C:\Users\dsowinski\source\repos\Hello world\Hello world\bin\Debug\Hello world.exe
+C:\Users\dsowinski\source\repos\Hello world\Hello world\bin\Debug\Hello world.pdb
+C:\Users\dsowinski\source\repos\Hello world\Hello world\obj\Debug\Hello world.csproj.AssemblyReference.cache
+C:\Users\dsowinski\source\repos\Hello world\Hello world\obj\Debug\Hello world.csproj.CoreCompileInputs.cache
+C:\Users\dsowinski\source\repos\Hello world\Hello world\obj\Debug\Hello world.exe
+C:\Users\dsowinski\source\repos\Hello world\Hello world\obj\Debug\Hello world.pdb
+C:\Users\dsowinski\source\repos\Hello world\Hello world\obj\Debug\Hello world.exe.config
+G:\SZKOLA\Aplikacje desktopowe\Klasa 3\Hello world\Hello world\bin\Debug\Hello world.exe.config
+G:\SZKOLA\Aplikacje desktopowe\Klasa 3\Hello world\Hello world\bin\Debug\Hello world.exe
+G:\SZKOLA\Aplikacje desktopowe\Klasa 3\Hello world\Hello world\bin\Debug\Hello world.pdb
+G:\SZKOLA\Aplikacje desktopowe\Klasa 3\Hello world\Hello world\obj\Debug\Hello world.csproj.AssemblyReference.cache
+G:\SZKOLA\Aplikacje desktopowe\Klasa 3\Hello world\Hello world\obj\Debug\Hello world.exe.config
+G:\SZKOLA\Aplikacje desktopowe\Klasa 3\Hello world\Hello world\obj\Debug\Hello world.csproj.CoreCompileInputs.cache
+G:\SZKOLA\Aplikacje desktopowe\Klasa 3\Hello world\Hello world\obj\Debug\Hello world.exe
+G:\SZKOLA\Aplikacje desktopowe\Klasa 3\Hello world\Hello world\obj\Debug\Hello world.pdb

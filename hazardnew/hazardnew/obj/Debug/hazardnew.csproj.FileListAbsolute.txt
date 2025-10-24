@@ -1,0 +1,8 @@
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\25 09 2025\hazard poprawiony\hazardnew\hazardnew\bin\Debug\hazardnew.exe.config
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\25 09 2025\hazard poprawiony\hazardnew\hazardnew\bin\Debug\hazardnew.exe
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\25 09 2025\hazard poprawiony\hazardnew\hazardnew\bin\Debug\hazardnew.pdb
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\25 09 2025\hazard poprawiony\hazardnew\hazardnew\obj\Debug\hazardnew.csproj.AssemblyReference.cache
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\25 09 2025\hazard poprawiony\hazardnew\hazardnew\obj\Debug\hazardnew.csproj.CoreCompileInputs.cache
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\25 09 2025\hazard poprawiony\hazardnew\hazardnew\obj\Debug\hazardnew.exe
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\25 09 2025\hazard poprawiony\hazardnew\hazardnew\obj\Debug\hazardnew.pdb
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\25 09 2025\hazard poprawiony\hazardnew\hazardnew\obj\Debug\hazardnew.exe.config

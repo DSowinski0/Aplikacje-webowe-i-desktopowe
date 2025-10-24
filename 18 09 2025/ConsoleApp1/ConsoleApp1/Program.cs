@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+  
+        static void Main(string[] args)
+        {
+
+            var w = new Wybor();
+
+            w.GetNumbers();
+
+            w.ShowNumbers();
+
+
+           
+            w.sortOsc();
+            w.ShowNumbers();
+
+        
+
+            //w.x = 1;
+
+        }
+    }
+}

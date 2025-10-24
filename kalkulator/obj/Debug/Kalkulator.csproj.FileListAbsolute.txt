@@ -1,0 +1,24 @@
+C:\Users\wstrusinski\source\repos\Praca1\bin\Debug\Praca1.exe.config
+C:\Users\wstrusinski\source\repos\Praca1\bin\Debug\Praca1.exe
+C:\Users\wstrusinski\source\repos\Praca1\bin\Debug\Praca1.pdb
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\MainWindow.g.cs
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\App.g.cs
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\Praca1_MarkupCompile.cache
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\Praca1_MarkupCompile.lref
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\MainWindow.baml
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\Praca1.g.resources
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\Praca1.Properties.Resources.resources
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\Praca1.exe
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\Praca1.pdb
+C:\Users\wstrusinski\source\repos\Praca1\obj\Debug\Praca1.exe.config
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\kalkulator\obj\Debug\Praca1.exe.config
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\kalkulator\obj\Debug\MainWindow.g.cs
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\kalkulator\obj\Debug\App.g.cs
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\kalkulator\obj\Debug\Praca1_MarkupCompile.cache
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\kalkulator\obj\Debug\Praca1_MarkupCompile.lref
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\kalkulator\obj\Debug\Praca1.exe
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\kalkulator\obj\Debug\Praca1.pdb
