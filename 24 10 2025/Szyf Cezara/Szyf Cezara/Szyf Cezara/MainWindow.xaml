@@ -1,0 +1,27 @@
+﻿<Window x:Class="Szyf_Cezara.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Szyf_Cezara"
+        mc:Ignorable="d"
+        Title="Szyfrowanie wykonane przez: " Height="450" Width="800" Background="Gray">
+
+    <Grid Margin="0,0,0,-6" HorizontalAlignment="Center" Width="800">
+
+
+
+
+        <TextBlock Margin="448,73,166,310">Szyfrogram/napis</TextBlock>
+        <TextBlock Margin="613,188,46,199">Klucz</TextBlock>
+
+        <CheckBox Margin="162,189,472,200">Szyfruj</CheckBox>
+        <Button Margin="314,240,314,134">Ok</Button>
+
+        <TextBox Name="szyfr" Margin="90,56,400,293"></TextBox>
+        <TextBox Name="klucz" Margin="353,166,216,205"></TextBox>
+
+
+
+    </Grid>
+</Window>
