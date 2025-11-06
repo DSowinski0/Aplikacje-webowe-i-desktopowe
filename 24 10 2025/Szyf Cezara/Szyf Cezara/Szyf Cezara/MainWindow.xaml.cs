@@ -36,7 +36,7 @@ namespace Szyf_Cezara
             
 
            char[] literymale = new char[] {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'w', 'x', 'y', 'z'};
-            char[] literyduze = new char[] { 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'R', 'S', 'T', 'U', 'W', 'X', 'Y', 'Z'};
+           char[] literyduze = new char[] {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'R', 'S', 'T', 'U', 'W', 'X', 'Y', 'Z'};
 
 
         }
@@ -49,6 +49,23 @@ namespace Szyf_Cezara
 
 
 
+        }
+
+
+        private void Button_Click_Szyfruj(object sender, RoutedEventArgs e)
+        {
+
+            Cezar cezar;
+            var klucz = Int32.Parse(klucz.Text);
+
+            if (mode.IsChecked == True)
+            {
+
+
+                cezar = new Cezar(doSzyfrowania.Text(int)Int32.Parse(klucz.Text));
+
+
+            }
         }
 
 

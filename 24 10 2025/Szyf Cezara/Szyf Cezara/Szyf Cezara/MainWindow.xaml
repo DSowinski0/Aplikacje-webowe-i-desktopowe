@@ -9,17 +9,17 @@
 
     <Grid Margin="0,0,0,-6" HorizontalAlignment="Center" Width="800">
 
+        
 
+        <TextBlock Margin="455,114,159,269">Szyfrogram/napis</TextBlock>
+        <TextBlock Margin="667,161,-8,225">Klucz</TextBlock>
 
+        <CheckBox Margin="199,223,435,166" x:Name="chszyfruj">Szyfruj</CheckBox>
+        <CheckBox Margin="507,223,127,166" x:Name="chodszyfruj">Odszyfruj</CheckBox>
+        <Button Margin="314,286,314,88">Ok</Button>
 
-        <TextBlock Margin="448,73,166,310">Szyfrogram/napis</TextBlock>
-        <TextBlock Margin="613,188,46,199">Klucz</TextBlock>
-
-        <CheckBox Margin="162,189,472,200">Szyfruj</CheckBox>
-        <Button Margin="314,240,314,134">Ok</Button>
-
-        <TextBox Name="szyfr" Margin="90,56,400,293"></TextBox>
-        <TextBox Name="klucz" Margin="353,166,216,205"></TextBox>
+        <TextBox x:Name="szyfr" Margin="112,80,378,269"></TextBox>
+        <TextBox x:Name="klucz" Margin="507,153,159,252"></TextBox>
 
 
 
