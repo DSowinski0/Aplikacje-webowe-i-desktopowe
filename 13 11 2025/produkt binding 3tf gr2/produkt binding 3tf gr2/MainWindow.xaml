@@ -17,25 +17,25 @@
 
 
 
-                    <TextBlock DockPanel.Dock="Left" Margin="5"  Width="300" Height="50">Spadek</TextBlock>
-                    <TextBox DockPanel.Dock="Right" Margin="5" Background="LightGray"  Width="300" Height="50"></TextBox>
+                    <TextBlock DockPanel.Dock="Left" Margin="5"  Width="300" Height="50">Symbol</TextBlock>
+                    <TextBox DockPanel.Dock="Right" Margin="5" Background="LightGray" x:Name="symbol" Width="300" Height="50"></TextBox>
 
                 </WrapPanel>
                 <WrapPanel>
 
                     <TextBlock DockPanel.Dock="Left" Margin="5"  Width="300" Height="50">Nazwa</TextBlock>
-                    <TextBox DockPanel.Dock="Right" Margin="5" Background="LightGray"  Width="300" Height="50"></TextBox>
+                    <TextBox DockPanel.Dock="Right" Margin="5" Background="LightGray"  Width="300" Height="50" x:Name="nazwa"></TextBox>
                 </WrapPanel>
 
                 <WrapPanel>
                     <TextBlock DockPanel.Dock="Left" Margin="5"  Width="300" Height="50">LIczba sztuk:</TextBlock>
-                    <TextBox DockPanel.Dock="Right" Background="LightGray" Margin="5"  Width="300" Height="50"></TextBox>
+                    <TextBox DockPanel.Dock="Right" Background="LightGray" Margin="5"  Width="300" Height="50" x:Name="sztuki"></TextBox>
                 </WrapPanel>
 
 
                 <WrapPanel>
                     <TextBlock DockPanel.Dock="Left" Margin="5"  Width="300" Height="50">Magazyn</TextBlock>
-                    <TextBox DockPanel.Dock="Right" Background="LightGray" Margin="5" Width="300" Height="50"></TextBox>
+                    <TextBox DockPanel.Dock="Right" Background="LightGray" Margin="5" Width="300" Height="50" x:Name="magazyn"></TextBox>
                 </WrapPanel>
                 
                 

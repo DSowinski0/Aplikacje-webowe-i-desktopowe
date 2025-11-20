@@ -10,32 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace produkt_binding_3tf_gr2
+namespace kolekcja_biding
 {
     /// <summary>
-    /// Logika interakcji dla klasy MainWindow.xaml
+    /// Logika interakcji dla klasy addproduct.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class addproduct : Window
     {
-        public MainWindow()
+        public addproduct()
         {
             InitializeComponent();
-
-
-            produkt = new produkt("");
         }
-
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
-            MessageBox.Show(String.Format("{0 {1} {2}", "Dane pruduktu: ", Environment.NewLine, produkt.ToString()));
-
-        }
-
-
     }
 }

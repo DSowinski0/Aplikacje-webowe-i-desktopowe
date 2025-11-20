@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace produkt_binding_3tf_gr2
+namespace kolekcja_biding
 {
     internal class produkt
     {
-
-
 
 
         public string Symbol { get; set; }
@@ -19,9 +17,6 @@ namespace produkt_binding_3tf_gr2
         public string Ilosc_sztuk { get; set; }
 
         public string Magazyn { get; set; }
-
-
-
 
 
 

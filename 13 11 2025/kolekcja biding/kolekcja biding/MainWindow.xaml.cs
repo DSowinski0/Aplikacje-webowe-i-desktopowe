@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,28 +14,46 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace produkt_binding_3tf_gr2
+namespace kolekcja_biding
 {
     /// <summary>
     /// Logika interakcji dla klasy MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
+
+
+        private ObservableCollection<produkt> Produkty = null;
+
+
+
         public MainWindow()
         {
             InitializeComponent();
-
-
-            produkt = new produkt("");
+            PrzygotujWiazanie();
         }
 
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void PrzygotujWiazanie()
         {
 
-            MessageBox.Show(String.Format("{0 {1} {2}", "Dane pruduktu: ", Environment.NewLine, produkt.ToString()));
+            Produkty = new ObservableCollection<produkt>();
+            Produkty.Add(new produkt("WP10", "Pióro wieczne", 100, "MG1"));
+            Produkty.Add(new produkt("WP11", "Piórnik", 50, "MG2"));
+            Produkty.Add(new produkt("WP12", "Temperówka", 1000, "MG3"));
+            Produkty.Add(new produkt("WP13", "Ołowek", 300, "MG4"));
+
+
+
+
+
 
         }
+
+
+
+     
+
 
 
     }
