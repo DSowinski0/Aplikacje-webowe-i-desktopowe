@@ -20,15 +20,5 @@ namespace kolekcja_biding
 
 
 
-
-
-
-
-
-
-
-
-
-
     }
 }

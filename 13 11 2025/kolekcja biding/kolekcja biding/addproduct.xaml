@@ -9,7 +9,12 @@
     <Grid>
 
 
-
+        <StackPanel>
+            
+            
+            
+            
+        </StackPanel>
 
 
 
@@ -20,6 +25,7 @@
 
             <ListView x:Name="listPadding" Grid.Column="0"></ListView>
             <Button Content="Dodaj" Width="100" Height="30" Click="button"></Button>
+            <Button Content="Edytuj" Width="100" Height="30" Click="button"></Button>
             
         </StackPanel>
         
