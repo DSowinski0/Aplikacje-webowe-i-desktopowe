@@ -1,0 +1,109 @@
+﻿<Window x:Class="egzamin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:egzamin"
+        mc:Ignorable="d"
+        Title="Wprowadzanie danych do paszportu. Wykonał: Dawid Sowiński z klasy 3TF" Height="450" Width="800" Background="CadetBlue">
+    <Grid>
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+
+        <StackPanel Grid.Column="0" VerticalAlignment="Top" Margin="5">
+            <WrapPanel Margin="5">
+                <TextBlock Padding="0,0,25,0">Numer</TextBlock>
+                
+                
+                <TextBox Background="Azure"
+                 
+                 TextChanged="Zmien_zdjecie"
+                         
+                         Width="200"
+                         Height="30"
+                 
+                 x:Name="Numer"/>
+
+
+
+            </WrapPanel>
+
+
+
+            <WrapPanel Margin="5">
+
+
+                <TextBlock Padding="0,0,25,0">Imię</TextBlock>
+                <TextBox Background="Azure" x:Name="Imie"
+                         
+                          Width="200"
+                          Height="30"
+                         
+                         />
+
+
+            </WrapPanel>
+
+
+
+            <WrapPanel Margin="5">
+                <TextBlock Padding="0,0,25,0">Nazwisko</TextBlock>
+
+                <TextBox Background="Azure" x:Name="Nazwisko"
+                         
+                          Width="200"
+                          Height="30"
+                         
+                         />
+                
+            </WrapPanel>
+        </StackPanel>
+
+
+
+
+        <StackPanel Grid.Column="0" VerticalAlignment="Bottom" Margin="5">
+
+            <GroupBox Header="Kolor Oczu">
+
+
+
+                <StackPanel Orientation="Vertical"  >
+
+
+
+
+                    <RadioButton Margin="10" GroupName="koczu" x:Name="nieb" IsChecked = "True"  Content="niebieskie" />
+                    <RadioButton Margin="10" GroupName="koczu" x:Name="ziel" Content="zielone" />
+                    <RadioButton Margin="10" GroupName="koczu" x:Name="piwn"  Content="piwne" />
+                    
+                    
+                    
+                </StackPanel>
+            </GroupBox>
+
+        </StackPanel>
+
+
+
+
+        <StackPanel Grid.Column="1" Orientation="Horizontal" Margin="25" VerticalAlignment="Top">
+            <Image Source="/zdjecia/000-odcisk.jpg" x:Name="odcisk" Height="175" Width="150"></Image>
+
+            <Image Source="/zdjecia/000-zdjecie.jpg" x:Name="zdjecie" Height="250" Width="150"></Image>
+        </StackPanel>
+
+
+
+
+
+        <StackPanel Grid.Column="1" Margin="25" VerticalAlignment="Bottom" >
+            <Button Height="50" Width="150" Background="Azure"  Content="OK" Click="Button_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Window>
