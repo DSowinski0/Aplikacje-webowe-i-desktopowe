@@ -1,0 +1,17 @@
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\bin\Debug\KolekcjaBinding_3TFgr2.exe.config
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\bin\Debug\KolekcjaBinding_3TFgr2.exe
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\bin\Debug\KolekcjaBinding_3TFgr2.pdb
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\KolekcjaBinding_3TFgr2.csproj.AssemblyReference.cache
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\AddWindow.g.cs
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\MainWindow.g.cs
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\App.g.cs
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\KolekcjaBinding_3TFgr2_MarkupCompile.cache
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\KolekcjaBinding_3TFgr2_MarkupCompile.lref
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\AddWindow.baml
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\MainWindow.baml
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\KolekcjaBinding_3TFgr2.g.resources
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\KolekcjaBinding_3TFgr2.Properties.Resources.resources
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\KolekcjaBinding_3TFgr2.csproj.GenerateResource.cache
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\KolekcjaBinding_3TFgr2.csproj.CoreCompileInputs.cache
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\KolekcjaBinding_3TFgr2.exe
+E:\SZKOLA\Aplikacje desktopowe\Klasa 3\08 01 2026\kolekcja biding\KolekcjaBinding_3TFgr2-master\obj\Debug\KolekcjaBinding_3TFgr2.pdb

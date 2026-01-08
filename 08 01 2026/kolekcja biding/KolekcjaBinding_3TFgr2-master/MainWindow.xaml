@@ -1,0 +1,48 @@
+﻿<Window x:Class="KolekcjaBinding_3TFgr2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KolekcjaBinding_3TFgr2"
+        mc:Ignorable="d"
+        Title="Lista produktów" Height="250" Width="350"
+        WindowStartupLocation="CenterScreen">
+    <StackPanel Orientation="Vertical">
+        <Menu>
+            <MenuItem Header="Plik">
+                <MenuItem Header="Zapisz" Click="MenuItemZapiszClick"/>
+                <MenuItem Header="Wczytaj"/>
+            </MenuItem>
+        </Menu>
+        <ListView x:Name="lstProdukty" Grid.Column="0" SelectedIndex="0">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn Header="Symbol" 
+                                        DisplayMemberBinding="{Binding Symbol}"/>
+                        <GridViewColumn Header="Nazwa produktu"
+                                        DisplayMemberBinding="{Binding Nazwa}"/>
+                        <GridViewColumn Header="Ilość"
+                                     DisplayMemberBinding="{Binding LiczbaSztuk}"/>
+                        <GridViewColumn Header="Magazyn"
+                                        DisplayMemberBinding="{Binding Magazyn}"/>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+           <Button Content ="Dodaj" Width="80" Height="30" Margin="10"
+                Click="Button_Dodaj_Click"/>
+           <Button Content ="Edytuj" Width="80" Height="30" Margin="10"
+               Click="Button_Edytuj_Click"/>
+            <Button Content ="Usuń" Width="80" Height="30" Margin="10"
+                    Click="Button_Usun_Click"/>
+        </StackPanel>
+       
+        
+    </StackPanel>
+        
+
+ 
+</Window>
