@@ -1,2 +1,2 @@
-# Aplikacje-webowe-i-desktopowe
+# Szkoła
 Lekcje
